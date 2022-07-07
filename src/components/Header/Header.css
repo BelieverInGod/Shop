@@ -1,0 +1,8 @@
+header {
+    display: flex;
+    width: 99%;
+    height: 130px;
+    background: black;
+    margin: 0 auto;
+    justify-content: space-around;   
+}

@@ -1,0 +1,11 @@
+.position {
+    position: relative;
+    margin: auto;
+    left: 5%;
+}
+
+.dec_pos {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
